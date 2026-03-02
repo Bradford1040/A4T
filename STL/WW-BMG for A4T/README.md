@@ -23,7 +23,7 @@ Choose your own adventure
 ### Needed for all variants
 - 1x M3x25 BHCS screw
 - 2x DIN562 M3 Square nut
-- 1x Bondtech RIDGA (optional but highly recommended), its mounting bearings and tensioning thumbscrew with spring and nylon washer
+- 1x Bondtech [OEM RIDGA v2](https://www.bondtech.se/product/oem-ridga-reverse-integrated-drive-gear-assembly-v2/) (optional but highly recommended), its mounting bearings and tensioning thumbscrew with spring and nylon washer
 - 1x M3x16 SHCS `to attach NEMA 14 pancake stepper motor. Length correct if using threaded stand-offs for toolhead board mounting.`
 - 1x M3x12 SHCS `to attach NEMA 14 pancake motor. Length correct if using threaded stand-offs for toolhead board mounting.`
 - 1x ECAS 4mm `⚠️ Remove both the black plastic and rubber parts from the bottom.`
